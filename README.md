@@ -83,4 +83,3 @@ axios.post('localhost:8000/bandas', { argumentos: 'all' }).then(response => {
 })
 ```
 ---
-#### Obrigado :)
